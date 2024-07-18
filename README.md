@@ -1,3 +1,4 @@
+![logo](https://github.com/Lovejotcoder7/Lovejotcoder7.github.io/blob/main/WhatsApp%20Image%202024-07-18%20at%2022.02.31.jpeg)
 <h1 align="center">Hi 👋, I'm Lovejotcoder7</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
